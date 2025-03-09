@@ -135,3 +135,6 @@ dist
 cypress/videos
 cypress/screenshots
 cypress/reports
+
+# My folders
+read/
