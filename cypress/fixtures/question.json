@@ -1,17 +1,16 @@
-
     [
         {
           "question": "Is this a question?",
           "answers": [
               { "text": "No", "isCorrect": true },
-            { "text": "Yes", "isCorrect": false }
+              { "text": "Yes", "isCorrect": false }
           ]
         },
         {
             "question": "Is this the second question?",
             "answers": [
             { "text": "No", "isCorrect": true },
-              { "text": "Yes", "isCorrect": false }
+            { "text": "Yes", "isCorrect": false }
             ]
         }
     ]
